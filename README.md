@@ -1,5 +1,6 @@
 # -Excel-Sales-Analytics-Report
 Sales Analytics Report for Atliq Hardware
+
 Sales analytics involves the analysis of sales data to gain insights into patterns, trends, and performance metrics. It encompasses the use of various techniques, such as statistical analysis, data mining, and predictive modeling, to understand and improve sales processes, strategies, and outcomes.
 
 AtliQ Hardwares, a global hardware giant, faces the challenge of optimizing sales and improving net gross margin,and their aim is to enhance the sales
