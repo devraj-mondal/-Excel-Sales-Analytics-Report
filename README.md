@@ -19,7 +19,7 @@ AtliQ Hardwares, a global hardware giant, faces the challenge of optimizing sale
 🙋‍♀️new products 2021
 🙋‍♀️top 5 countries
 
-## live Dashboard
+## live Report
 https://mondaldevraj-my.sharepoint.com/:x:/g/personal/devraj_mondaldevraj_onmicrosoft_com/EWjMYSDGlY9Av9EtfyHqYkcB7w1NQODaEM6fm24J4TCglw?e=5TNxyL
 ## Tech Stack
 
