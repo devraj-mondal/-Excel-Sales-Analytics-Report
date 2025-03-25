@@ -20,7 +20,7 @@ AtliQ Hardwares, a global hardware giant, faces the challenge of optimizing sale
 🙋‍♀️top 5 countries
 
 ## live Report
-https://mondaldevraj-my.sharepoint.com/:x:/g/personal/devraj_mondaldevraj_onmicrosoft_com/EWjMYSDGlY9Av9EtfyHqYkcB7w1NQODaEM6fm24J4TCglw?e=5TNxyL
+ https://docs.google.com/spreadsheets/d/1IxPUiW7GgFHvRSwjI3_BXT0VozP0yVsC/edit?usp=drive_link&ouid=110724969758012437463&rtpof=true&sd=true
 ## Tech Stack
 
 Ms excel,Data transformation using power query,power pivot,DAX
